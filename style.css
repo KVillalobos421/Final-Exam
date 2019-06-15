@@ -1,0 +1,16 @@
+.body{
+    background-color: aqua;
+}
+.items {
+    float: left;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+.searchContainer {
+    text-align: center;
+} 
+.pagination {
+    margin-left: 530px;
+    text-align: center;
+    font-size: 36px;
+} 
